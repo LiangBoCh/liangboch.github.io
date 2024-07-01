@@ -3,11 +3,11 @@
   <title>LBCH&#39;Blog</title>
   
   <subtitle>属于LBCH的技术分享博客网站</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://liangboch.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://liangboch.github.io/"/>
   <updated>2024-07-01T15:22:45.759Z</updated>
-  <id>http://example.com/</id>
+  <id>http://liangboch.github.io/</id>
   
   <author>
     <name>LBCH</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>python基础</title>
-    <link href="http://example.com/2024/06/29/Python%E5%9F%BA%E7%A1%80/"/>
-    <id>http://example.com/2024/06/29/Python%E5%9F%BA%E7%A1%80/</id>
+    <link href="http://liangboch.github.io/2024/06/29/Python%E5%9F%BA%E7%A1%80/"/>
+    <id>http://liangboch.github.io/2024/06/29/Python%E5%9F%BA%E7%A1%80/</id>
     <published>2024-06-28T16:01:14.547Z</published>
     <updated>2024-07-01T15:22:45.759Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>自制python程序分享</title>
-    <link href="http://example.com/2024/06/24/python%E8%87%AA%E5%88%B6%E7%A8%8B%E5%BA%8F%E5%88%86%E4%BA%AB/"/>
-    <id>http://example.com/2024/06/24/python%E8%87%AA%E5%88%B6%E7%A8%8B%E5%BA%8F%E5%88%86%E4%BA%AB/</id>
+    <link href="http://liangboch.github.io/2024/06/24/python%E8%87%AA%E5%88%B6%E7%A8%8B%E5%BA%8F%E5%88%86%E4%BA%AB/"/>
+    <id>http://liangboch.github.io/2024/06/24/python%E8%87%AA%E5%88%B6%E7%A8%8B%E5%BA%8F%E5%88%86%E4%BA%AB/</id>
     <published>2024-06-24T13:10:55.431Z</published>
     <updated>2024-07-01T15:22:57.830Z</updated>
     
@@ -61,8 +61,8 @@
   
   <entry>
     <title>python爬虫</title>
-    <link href="http://example.com/2024/06/23/%E7%88%AC%E8%99%AB/"/>
-    <id>http://example.com/2024/06/23/%E7%88%AC%E8%99%AB/</id>
+    <link href="http://liangboch.github.io/2024/06/23/%E7%88%AC%E8%99%AB/"/>
+    <id>http://liangboch.github.io/2024/06/23/%E7%88%AC%E8%99%AB/</id>
     <published>2024-06-22T23:11:37.600Z</published>
     <updated>2024-07-01T15:23:10.073Z</updated>
     
@@ -84,8 +84,8 @@
   
   <entry>
     <title>c++基础</title>
-    <link href="http://example.com/2024/06/14/C++%E5%9F%BA%E7%A1%80/"/>
-    <id>http://example.com/2024/06/14/C++%E5%9F%BA%E7%A1%80/</id>
+    <link href="http://liangboch.github.io/2024/06/14/C++%E5%9F%BA%E7%A1%80/"/>
+    <id>http://liangboch.github.io/2024/06/14/C++%E5%9F%BA%E7%A1%80/</id>
     <published>2024-06-14T14:16:00.342Z</published>
     <updated>2024-07-01T15:22:34.299Z</updated>
     
